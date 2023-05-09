@@ -1,2 +1,2 @@
 # AzureOpenAI
-**本篇內容涵蓋Azure OpenAI 串接程式供參考使用**
+**本篇內容涵蓋Azure OpenAI 多輪對話串接供參考使用**
